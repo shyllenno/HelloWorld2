@@ -1,9 +1,12 @@
-This is my first edition on Nano
+---
+title: "Final version of this README.md"
+author: shyllenno
+---
 
-This is also my first commit from a command line
+This is the final version for README.md file.
 
-... 
+Moving on to next steps on the course.
 
-Just practising... 
+Regards,
 
-Modified another line
+Leandro aka shyllenno
